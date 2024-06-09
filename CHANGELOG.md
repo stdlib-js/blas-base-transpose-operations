@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4cf962b`](https://github.com/stdlib-js/stdlib/commit/4cf962bb62a3592651cead050e70604e455c7e0e) - **docs:** update description _(by Athan Reines)_
 -   [`87a0d77`](https://github.com/stdlib-js/stdlib/commit/87a0d77b81cc5bc8c05e40d6ec22f548c5d3dd14) - **feat:** add `blas/base/transpose-operations` _(by Athan Reines)_
 
 </details>
