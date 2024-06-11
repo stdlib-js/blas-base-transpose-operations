@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import transposeOperations from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operations@esm/index.mjs';
+import transposeOperations from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operations@v0.0.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { enum } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operations@esm/index.mjs';
+import { enum } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operations@v0.0.1-esm/index.mjs';
 ```
 
 #### transposeOperations()
@@ -103,7 +103,7 @@ The output array contains the following operations:
 <script type="module">
 
 var contains = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-contains' ).factory;
-import transposeOperations from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operations@esm/index.mjs';
+import transposeOperations from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-transpose-operations@v0.0.1-esm/index.mjs';
 
 var isOp = contains( transposeOperations() );
 
